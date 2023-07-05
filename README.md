@@ -1,6 +1,6 @@
 # Data-Visualization
-We are going to do visualization of Iris Dataset
-The Iris dataset is a popular dataset in machine learning and statistics. It is often used as a beginner's dataset for classification tasks. The dataset consists of measurements of four features (sepal length, sepal width, petal length, and petal width) from three different species of Iris flowers (Setosa, Versicolor, and Virginica).
+We are going to do visualization of Iris Dataset:
+The `Iris dataset` is a popular dataset in machine learning and statistics. It is often used as a beginner's dataset for classification tasks. The dataset consists of measurements of four features (sepal length, sepal width, petal length, and petal width) from three different species of Iris flowers (Setosa, Versicolor, and Virginica).
 Data visualization is a crucial step in the data analysis process as it allows you to gain insights and communicate findings effectively. Here are some steps you can follow for data visualization:
 
 Import the necessary libraries: Import the libraries you'll need for data visualization, such as Matplotlib, Seaborn, or Plotly.
